@@ -38,11 +38,11 @@ p{
     padding: 100px 200px 100px 100px; 
 
      margin-left: auto;
-     border: 20px solid red;
+     border: 20px solid rgb(204, 41, 172);
 }
 .sample2{
-    background-color: black;
-    color: blue;
+    background-color: rgb(27, 24, 24);
+    color: rgb(255, 0, 221);
     text-align: center;
 }
 .box01{
